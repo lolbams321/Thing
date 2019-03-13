@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class tedt here.
+ * wish I knew I was doing
  *
  * @author (your name)
  * @version (a version number or a date)
