@@ -2,8 +2,8 @@
 /**
  * wish I knew I was doing
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Antonio Cortez
+ * @version 1/13/19
  */
 public class tedt
 {
